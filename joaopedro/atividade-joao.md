@@ -11,6 +11,8 @@ Meta de Vida: Deixar de ser pobre e fazer algumas vidas um pouco mais felizes
 
 Cursando: Sistemas de Informação
 
+Ano de Ingresso no Curso: 2024
+
 Grau de Satisfação com o Curso: 95%
 
 Melhor Cadeira(minha visão): Lab1
