@@ -18,9 +18,9 @@ Grau de Satisfação com o Curso: 95%
 Melhor Cadeira(minha visão): Lab1
 
 ----------------------------------------
-Repositório: cpython(forkado por um amigo meu)
+Repositório: NeoVim
 
-Link: github.com/TectorPlays/cpython
+Link: https://github.com/neovim/neovim
 
 Comentando os Motivos: Eu gosto do NeoVim como injetor de texto(esse arquivo está sendo escrito em nvim), então achei que seria legal usar o rep dele pra esse exercício.
 
